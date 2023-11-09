@@ -1,0 +1,9 @@
+Genshin impact
+
+<canvas id="effectCanvas" width="2080" height="1359" style="width: 13.873rem; height: 9.06rem;">
+
+PALETE
+0b1d36 2e6588 2e6588 c1c2c4 4487ab
+descrizione
+storia
+personaggi 4.1
